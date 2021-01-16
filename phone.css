@@ -1,0 +1,99 @@
+/* Navigation */
+#navbar {
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+
+/* Services section  */
+#services{
+    flex-direction: column;
+}
+
+#services .box { 
+    padding: 14px;
+    margin: 2px 0px; 
+    margin-bottom: 20px;
+}
+
+/* Clients section */
+#clients{
+    flex-wrap: wrap;
+}
+
+#clients img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+
+#services .box img {
+    height: 115px;
+    margin: auto;
+    display: block;
+}
+
+/* Contact us section */
+#contact-box form{
+    width:80%;
+}
+/* Footer */
+
+/* Utility classes */
+.h-primary{
+    font-size:30px;
+}
+.background{
+    background: rgba(0, 0, 0, 0.7) url('/image/img.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+.section-left{
+height: 1%;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+max-width: 85%;
+margin: auto;
+flex-direction: row-reverse;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.section-left2{
+height: 1%;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+max-width: 85%;
+margin: auto;
+flex-direction: row-reverse;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.section-left3{
+height: 1%;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+max-width: 85%;
+margin: auto;
+flex-direction: row-reverse;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.section{
+    flex-direction: column-reverse;
+}
+
+.text-small{
+    text-align: center;
+}
+
+.text-big{
+    text-align: center;
+}
