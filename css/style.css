@@ -324,9 +324,11 @@ footer{
     }
     .text-small{
         text-align: center;
+        font-size: 22px;
     }
     .text-big{
         text-align: center;
+        font-size; 45px;
     }
     .paras{
         padding: 0;
