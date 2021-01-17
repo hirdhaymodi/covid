@@ -306,12 +306,12 @@ footer{
 }
 
 .text-big{
-    font-size: 50px;
+    font-size: 44px;
     color: darkseagreen;
 }
 
 .text-small{
-    font-size: 25px;
+    font-size: 22px;
     color: antiquewhite;
 }
 
@@ -349,7 +349,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    max-width: 85%;
+    max-width: 95%;
     margin: auto;
     flex-direction: row-reverse;
     font-family: 'Times New Roman', Times, serif;
@@ -359,7 +359,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    max-width: 85%;
+    max-width: 95%;
     margin: auto;
     flex-direction: row-reverse;
     font-family: 'Times New Roman', Times, serif;
@@ -369,7 +369,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    max-width: 85%;
+    max-width: 95%;
     margin: auto;
     flex-direction: row-reverse;
     font-family: 'Times New Roman', Times, serif;
