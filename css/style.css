@@ -306,12 +306,12 @@ footer{
 }
 
 .text-big{
-    font-size: 44px;
+    font-size: 50px;
     color: darkseagreen;
 }
 
 .text-small{
-    font-size: 22px;
+    font-size: 25px;
     color: antiquewhite;
 }
 
@@ -326,9 +326,6 @@ footer{
         text-align: center;
     }
     .text-big{
-        text-align: center;
-    }
-    .button{
         text-align: center;
     }
     .paras{
