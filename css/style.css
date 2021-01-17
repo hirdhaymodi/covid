@@ -349,7 +349,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    max-width: 95%;
+    max-width: 85%;
     margin: auto;
     flex-direction: row-reverse;
     font-family: 'Times New Roman', Times, serif;
@@ -359,7 +359,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    max-width: 95%;
+    max-width: 85%;
     margin: auto;
     flex-direction: row-reverse;
     font-family: 'Times New Roman', Times, serif;
@@ -369,7 +369,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    max-width: 95%;
+    max-width: 85%;
     margin: auto;
     flex-direction: row-reverse;
     font-family: 'Times New Roman', Times, serif;
